@@ -31,9 +31,9 @@ Execute a aplicação:
 python app.py
 ```
 
-A API estará rodando em `http://localhost:5000`.
+A API estará rodando em `http://localhost:5001`.
 
 ## Documentação da API (Swagger)
 
 Após iniciar a aplicação, acesse a documentação interativa em:
-- [http://localhost:5000/apidocs/](http://localhost:5000/apidocs/) (ou apenas abra a raiz e será redirecionado)
+- [http://localhost:5001/apidocs/](http://localhost:5001/apidocs/) (ou apenas abra a raiz e será redirecionado)
